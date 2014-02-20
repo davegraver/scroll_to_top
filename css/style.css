@@ -1,0 +1,23 @@
+.test {
+	margin: 0 auto;
+	width: 350px;
+}
+
+.back-to-top {
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	text-decoration: none;
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.30);
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	font-size: 50px;
+	text-align: center;
+	display: none;
+	}
+
+.back-to-top:hover {
+	background-color: rgba(0, 0, 0, 0.45);
+}
